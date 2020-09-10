@@ -4,9 +4,9 @@ def majuscule(mot):
     resultat = ''
     for lettre in mot:
        letter-ord(letter) -32
-       
+
         
-        resultat += lettre
+        resultat += charlettre
     return resultat
 
 
