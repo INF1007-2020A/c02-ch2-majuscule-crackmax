@@ -5,8 +5,8 @@ def majuscule(mot):
     for lettre in mot:
         lettre = ord(lettre) - 32        
         resultat += chr(lettre)
-          a = str(1+1) 
-    print(a)
+       
+    
     return resultat
   
 
