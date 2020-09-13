@@ -7,6 +7,7 @@ def majuscule(mot):
         resultat += chr(lettre)
     return resultat
     a = str(1+1) 
+    print(a)
 
 
 if __name__ == '__main__':
