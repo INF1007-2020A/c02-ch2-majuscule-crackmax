@@ -6,7 +6,7 @@ def majuscule(mot):
         lettre = ord(lettre) - 32        
         resultat += chr(lettre)
     return resultat
-    a =  
+    a = str(1+1) 
 
 
 if __name__ == '__main__':
